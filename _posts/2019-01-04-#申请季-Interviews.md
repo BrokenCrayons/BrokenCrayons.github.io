@@ -2,7 +2,7 @@
 layout:     post
 title:      申请季纪事
 subtitle:   interview使人进步
-date:       2019-01-05
+date:       2019-01-06
 author:     Jiawen Wu
 header-img: img/post-bg-interview-candidates.jpg
 catalog: false

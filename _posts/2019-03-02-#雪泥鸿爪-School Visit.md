@@ -7,7 +7,7 @@ author:     Jiawen Wu
 header-img: img/post-bg-skyhead.jpg
 catalog: false
 tags:
-    - 雪泥鸿爪
+    - Phd申请路
 ---
 <script type="text/javascript">
 // 禁止右键菜单

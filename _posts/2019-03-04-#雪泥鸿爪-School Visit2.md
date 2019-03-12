@@ -2,7 +2,7 @@
 layout:     post
 title:      School Visit 旅途小记 Day2
 subtitle:   Overwhelming days
-date:       2019-03-02
+date:       2019-03-03
 author:     Jiawen Wu
 header-img: img/post-bg-purdue-winter.jpg
 catalog: false
@@ -85,5 +85,5 @@ po图酒店外景一张
 
 
 
-2019.3.2  
+2019.3.3   
 嘉嘉

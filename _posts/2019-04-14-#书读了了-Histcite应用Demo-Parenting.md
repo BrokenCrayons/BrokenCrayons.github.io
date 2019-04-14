@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      父母教养实践与儿童认知（学业方面）发展
+title:      父母教养实践与儿童认知发展
 subtitle:   使用Histcite进行引文分析
 date:       2019-04-13
 author:     Jiawen Wu
 header-img: img/post-bg-histcite.jpg
-catalog: false
+catalog: true
 tags:
     - 书读了了
 ---
@@ -33,14 +33,13 @@ Histcite是Windows软件，所以想在Mac上安装成功又是一场恶战（�
 当然最后还是试出来了，大概是个综合性因素吧。要成功安装，需要进行的蜜汁操作有： 
 1.  IE浏览器：点击globe Internet -> 点击Local intranet -> 点击Sites -> 点击Advanced -> 输入http://127.0.0.1 -> 点击添加 -> 点击OK
 2.  在虚拟机的C盘建个文件夹，把导出的文件放进去，路径中不得有中文名
+3.  将文件拖拽到Histcite Icon上，而不要打开Histcite后才点击ADD导入文件
 
 ![](https://ws2.sinaimg.cn/large/006tNc79ly1g226dtzx49j30e7035t9i.jpg)
 
-3.  将文件拖拽到Histcite Icon上，而不要打开Histcite后才点击ADD导入文件
-
 总之希望大家安装成功，使用顺利！
 
-### 进入正题：父母教养实践与儿童认知（学业方面）发展的文献检索
+### 进入正题：父母教养实践与儿童认知（学业相关）发展的文献检索
 
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1g226jie00mj30sj06xgmh.jpg)
 

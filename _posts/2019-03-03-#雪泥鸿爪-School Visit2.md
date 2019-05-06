@@ -70,7 +70,7 @@ Airport Transit的引路小哥：“怎么又是你？”
 这雪跟我想的不一样啊...虽然雪很大，但是雪粒很小？？  
 酒店就在学校中间的Purdue Memorial Union 超级棒了  
 
-![](https://ws4.sinaimg.cn/large/006tKfTcly1g10eimflryj31hc0u04qq.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tKfTcly1g10eimflryj31hc0u04qq.jpg)
 
 下午超级抱歉地直接睡过了头  
 定了三个闹钟通通被我按掉了  
@@ -81,7 +81,7 @@ Airport Transit的引路小哥：“怎么又是你？”
 虽然还是很累，但是对school visit越来越期待了！！
 作为南方人 见到雪的机会可不多  
 po图酒店外景一张
-![](https://ws1.sinaimg.cn/large/006tKfTcly1g10emaue2gj31400u07wp.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tKfTcly1g10emaue2gj31400u07wp.jpg)
 
 
 

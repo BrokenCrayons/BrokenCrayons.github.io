@@ -12,7 +12,7 @@ tags:
 
 ### 前言
 > 这个...统计软件课程作业的发布贴。
-> 我还是要在这里羞耻地写上我的大名吴嘉雯，还有我的学号15307130412。
+> 我还是要在这里羞耻地写上我的大名吴嘉雯。
 > 求假装没看见...哼唧
 
 ***	
@@ -25,7 +25,7 @@ tags:
 freeplay过程视频拍摄 -> INTERACT中进行编码 -> 导出编码数据
 
 下面是从INTERACT中导出的数据示例
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fy1l4of2vej30o30gg43h.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy1l4of2vej30o30gg43h.jpg)
 
 数据集导入R中后使用**str()**函数查看
 
@@ -181,7 +181,7 @@ wordcloud(myfile.freq$word,myfile.freq$freq.Freq,random.order=FALSE,random.color
 ```
 上图！
 
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fy1u9p0lapj30dw0dwn0p.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwly1fy1u9p0lapj30dw0dwn0p.jpg)
 
 ***
 

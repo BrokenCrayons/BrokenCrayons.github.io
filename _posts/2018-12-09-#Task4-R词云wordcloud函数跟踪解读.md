@@ -13,7 +13,6 @@ tags:
 ### 前言
 
 	是的，今天又是个认真做作业的我...统计软件课程作业的发布贴。
-	我还是要在这里羞耻地写上我的大名吴嘉雯，还有我的学号15307130412。
 	～自动忽略～隐身～唔该嗮！
 
 ***	
@@ -21,7 +20,7 @@ tags:
 
 **爸爸妈妈和一岁宝宝freeplay说话的词云图**
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fy0h2yh6waj30dw0dwdhv.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy0h2yh6waj30dw0dwdhv.jpg)
 
 ***
 ## wordcloud函数介绍
@@ -238,18 +237,18 @@ wordcloud2函数
 
 可以生成更美丽的图噢，上几张图大家自行感受一下。
 
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fy0xs6ye79j308508cjuy.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwly1fy0xs6ye79j308508cjuy.jpg)
 
 credit to [The R Graph Gallery](https://www.r-graph-gallery.com/)
 
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fy0xsa0a84j30dc0dotc3.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwly1fy0xsa0a84j30dc0dotc3.jpg)
 
 credit to [The R Graph Gallery](https://www.r-graph-gallery.com/)
 
 关于wordcloud2详细的介绍大家可以<a href="https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html">点击自取</a>
 
 
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fy0ylgtd7aj31b803174b.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwly1fy0ylgtd7aj31b803174b.jpg)
 
 嘿嘿嘿
 

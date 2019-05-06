@@ -28,32 +28,32 @@ document.onpaste = function(){ return false; };
 
 Histcite是Windows软件，所以想在Mac上安装成功又是一场恶战（我最讨厌配置环境这种事情了）。在Mac的虚拟机上跑，一直无法读取文件......网上的的方法全试了个遍，也没能解决这个问题。
 
-![](https://ws1.sinaimg.cn/large/006tNc79ly1g2264qwfd8j30f304h3z2.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNc79ly1g2264qwfd8j30f304h3z2.jpg)
 
 当然最后还是试出来了，大概是个综合性因素吧。要成功安装，需要进行的蜜汁操作有： 
 1.  IE浏览器：点击globe Internet -> 点击Local intranet -> 点击Sites -> 点击Advanced -> 输入http://127.0.0.1 -> 点击添加 -> 点击OK
 2.  在虚拟机的C盘建个文件夹，把导出的文件放进去，路径中不得有中文名
 3.  将文件拖拽到Histcite Icon上，而不要打开Histcite后才点击ADD导入文件
 
-![](https://ws2.sinaimg.cn/large/006tNc79ly1g226dtzx49j30e7035t9i.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNc79ly1g226dtzx49j30e7035t9i.jpg)
 
 总之希望大家安装成功，使用顺利！
 
 ### 进入正题：父母教养实践与儿童认知（学业相关）发展的文献检索
 
-![](https://ws4.sinaimg.cn/large/006tNc79ly1g226jie00mj30sj06xgmh.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNc79ly1g226jie00mj30sj06xgmh.jpg)
 
 在Web of Science中选择 "Web of Science Core Collection"后进行搜索，然后可以点击左侧的“创建跟踪服务”来订阅RSS，或者右侧的“创建引文报告”来看关于这个领域文章的简单分析。要导入Histcite中需要点击保存为其他文件格式。
 
-![](https://ws1.sinaimg.cn/large/006tNc79ly1g226m2ncyxj30zp07wn0a.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNc79ly1g226m2ncyxj30zp07wn0a.jpg)
 
 分三次输出为三个纯文本文件（web of science每次最多只能输出500条，而我的搜索结果里有1453条，所以分三次输出）。需要选择“全记录与引用的参考文献”和“纯文本”格式。
 
-![](https://ws4.sinaimg.cn/large/006tNc79ly1g226olojm3j30ju09oq3o.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNc79ly1g226olojm3j30ju09oq3o.jpg)
 
 将三个txt文件拖入Histcite后作图，得到文献脉络图如下所示。
 
-![](https://ws1.sinaimg.cn/large/006tNc79ly1g226rbz5t5j31810u07wh.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNc79ly1g226rbz5t5j31810u07wh.jpg)
 
 ### 引文分析
 
@@ -94,7 +94,7 @@ Dieterich, Assel, Swank, Smith, and Landry (2006)发现，在3岁和4岁的日�
 
 一个小例子：
 
-![](https://ws2.sinaimg.cn/large/006tNc79ly1g22716rvuuj30cj08nq4j.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNc79ly1g22716rvuuj30cj08nq4j.jpg)
 
 
 当然儿童的认知发展还有很多很多其他的方面比如视听觉、空间思维、注意、记忆等等...预知父母教养如何促进儿童其它认知能力的发展，且听下回分解（如果有的话）...

@@ -74,7 +74,7 @@ document.onpaste = function(){ return false; };
 他消失在了地铁站前拥挤的人群里  
 上路，不过如此而已
 
-![](https://ws1.sinaimg.cn/large/006tKfTcly1g0pgcbifg8j31400u0di8.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tKfTcly1g0pgcbifg8j31400u0di8.jpg)
 ---
 愿大家走在路上  
 都是最美的风景

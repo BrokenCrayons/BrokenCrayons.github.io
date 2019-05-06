@@ -23,7 +23,7 @@ tags:
 
 # 签到的时间点
 ## 从时间维度上看各个城市当地人和旅行者的签到总数
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fy48guygdqj30xu0d243p.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwly1fy48guygdqj30xu0d243p.jpg)
 
 比较香港2013 年1 月-2017 年4 月，纽约2013 年1 月-2017 年4 月及三藩市2013 年1 月-
 2017 年3 月每个月的当地人和旅行者的总签到数量，可以看出在2014 年初到达峰值后三个城市
@@ -46,7 +46,7 @@ tags:
 市，当地人的签到数量多于旅行者，对Swarm 平台来说，每个城市的当地人贡献的流量比较多。
 
 ## 从时间维度看各个城市当地人和旅行者在不同月份的签到次数
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fy48ikhb75j30yn0e20vt.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy48ikhb75j30yn0e20vt.jpg)
 
 从当地人不同月份的签到数量来看地处美国西海岸四季如春的三藩市当地居民对季节和月份
 没有什么特别的感觉，毕竟没有温度的刺激，也就没有什么普遍的能增强或减弱出门动机的事情
@@ -61,7 +61,7 @@ tags:
 
 ## 从时间维度看各个城市当地人和旅行者在每天的不同时间的签到次数
 
-![](https://ws4.sinaimg.cn/large/006tNbRwly1fy48jq183ej30xq0d0wlb.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwly1fy48jq183ej30xq0d0wlb.jpg)
 
 一天24 小时，从当地人的数据可以看出三个较为明显的签到小高峰——早上上班时间，中午
 午休时间以及晚上下班以后，当然这也对应着一日三餐的时间。这很符合上班族的作息规律，在
@@ -86,12 +86,12 @@ tags:
 凌晨3 点大家都在干什么呢？这个问题实在让人好奇，于是将纽约市旅行者凌晨3-4 点的签
 到地点做了个饼图，如下。
 
-![](https://ws4.sinaimg.cn/large/006tNbRwly1fy48kqyps1j30t60k5wnq.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwly1fy48kqyps1j30t60k5wnq.jpg)
 
 从图中可以看出纽约市的旅行用户在凌晨3-4 点的时候会在地铁站签到，在住所附近签到，还有在机场签到，在路上签到，在公园签到…….地铁站大概是浪完了要回住处了，这提示我们在旅游城市中24 小时地铁是有需求；住所附近，凌晨三点，保守估计是home party 完准备回家了；机场……既然是旅行者，那么机场也是一个挺符合认知的地方，红眼班机的特殊属性，夜晚这个时候在机场等飞机的情景，提供了一个不受打扰的回顾与思考的时间，十分容易激发人们的社交分享欲望。路上…那可能是回家的路上或者去机场的路上；至于停车场…嗯…
 
 ## 从时间维度看各个城市当地人和旅行者一周七天的签到次数分布
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fy4c0tfk12j30wz0cmgpj.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy4c0tfk12j30wz0cmgpj.jpg)
 
 从图上看本地用户每周签到的次数较为稳定，周末反而会比较少，可能是工作比较累的缘故，周末都在家里躺尸休养生息。本地用户在三藩市周三出现了一个签到高峰，这是周中工作聚会的内party？记得有些同学说过硅谷有些公司有这样的传统，但这个高峰不知道是不是因为这个造成的，只是一个小小的猜测。
 
@@ -101,19 +101,19 @@ tags:
 
 # 签到的地点
 ## 从签到类别看各个城市当地人和旅行者的签到场所偏好
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fy4cafdmhrj30xk0d2gsk.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy4cafdmhrj30xk0d2gsk.jpg)
 
 由图可以看出在香港市排在当地用户和旅行用户常用签到地点前三位的都是餐厅，购物中心和地铁站，这代表了人们常常出行的激发社交分享欲望的地点。当地用户排在第四位的是各种建筑，第五位和第六位都是是自家街区，说明了人们也常在家里发签到。在旅行者的签到排行中靠前的是酒店和街区，还有机场。
 
 如之前对凌晨3-4 点的讨论，其实这些地点都指向了同一个问题——孤独感。除餐厅、购物中心和地铁站外，与自我状态相关的，与休憩相关的更私人的地点出现在一个基于定位的社交平台上从心理学的角度来说是不符合人本能的安全需求的。因为动物会有隐藏自己的巢穴位置的本能，人也有隐藏隐私信息的倾向。在家中签到是违反本能的私生活信息的分享，其实暗示了一种社交邀请。
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fy4ce2h1k2j30xy0d2wl5.jpg)
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fy4ce4j1i9j30w40d2gs9.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy4ce2h1k2j30xy0d2wl5.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy4ce4j1i9j30w40d2gs9.jpg)
 和香港市一样，纽约市和三藩市的当地人签到最多的地点类别是餐厅，看来人们对食物还是情有独钟的，当然食物本身的功能除了饱腹外，还掺杂了很多与情感与社交相关的东西。另外，有趣的地域差异再次出现了。香港用户签到地点排名第二的购物广场没有出现在纽约和三藩的任何一个榜单上。而在纽约和三藩每个榜单中都出现了的咖啡店也没有出现在香港的榜单上。
 
 都说生活在其中的人塑造了一座城，给予了城市属于它的独特性格。从这样的签到类别榜单中我们便可以通过人们最常落脚的地点管窥可以看出一座城，及这座城对接近它的旅人的影响（抱歉突然文艺）。香港被人贴上买买买的标签，不只是外地人乐于到香港去采购，从shopping mall 在当地人签到数量第二位就可以看出，香港本地人对“买买买”本身也是高度认同的；在纽约当地人的榜单前十中出现了“酒吧”，这与不夜城哥谭市的名声也是有高度关联的，酒吧文化在人们的生活中就得以体现。而这一城市标签同样影响着来到这座城的人，虽然没有进前十，但排在纽约旅者签到榜单第十二位的“酒吧”也能算得上是显眼了；在三藩市当地人的榜单中，我们可以体会到强烈的生活气息，“酒吧”、“披萨屋”、“食品杂货店”、“面包店”等，都体现出与纽约的冷硬不同的休闲味道。值得一提的是到三藩旅者的榜单上出现了“Piers”这个著名的休闲旅游景点，可见三藩的海鲜，码头海狮，金门大桥等美景在过路人心中的地位了。
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fy4cgkjudmj30k00b9whl.jpg)
+![](https://raw.githubusercontent.com/BrokenCrayons/ImageBase/master/Images/006tNbRwgy1fy4cgkjudmj30k00b9whl.jpg)
 
 谈了如此多的差异，回到共有的模式上可以看出在每一个榜单中都有代表着私人领域的签到
 类别名列前位。就像前面说的，我认为这指向了生活在大城市中的人们存在的一个共有主题——

@@ -5,22 +5,10 @@ subtitle:   美文共赏
 date:       2019-06-18
 author:     Jiawen Wu
 header-img: img/post-bg-lovelybaby.jpg
-catalog: false
+catalog: true
 tags:
     - 书读了了
 ---
-<script type="text/javascript">
-// 禁止右键菜单
-document.oncontextmenu = function(){ return false; };
-// 禁止文字选择
-document.onselectstart = function(){ return false; };
-// 禁止复制
-document.oncopy = function(){ return false; };
-// 禁止剪切
-document.oncut = function(){ return false; };
-// 禁止粘贴
-document.onpaste = function(){ return false; };
-</script>
 
 #### **1 Infants' Responses to Interactive Gaze-Contingent Faces in a Novel and Naturalistic Eye-Tracking Paradigm**
 

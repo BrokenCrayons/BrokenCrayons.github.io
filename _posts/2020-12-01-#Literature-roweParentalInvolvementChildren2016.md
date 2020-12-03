@@ -3,7 +3,7 @@ layout:     post
 bibliography: [/Users/wujiawen/Desktop/My Blog/BrokenCrayons/BrokenCrayons.github.io/citationfiles/mylibrary.bib]
 csl: "/Users/wujiawen/Desktop/My Blog/BrokenCrayons/BrokenCrayons.github.io/citationfiles/apa-single-spaced.csl"
 title:      Parental Involvement and Children's Motivation and Achievement
-subtitle:   A review papaer by Rowe, Ramani, and Pomerantz
+subtitle:   A review paper by Rowe, Ramani, and Pomerantz
 date:       2020-12-01
 author:     Jiawen Wu
 header-img: img/post-bg-parentalinvolvement.jpg

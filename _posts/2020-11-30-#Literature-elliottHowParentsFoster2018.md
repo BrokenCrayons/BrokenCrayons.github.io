@@ -3,7 +3,7 @@ layout:     post
 bibliography: [citationfiles/mylibrary.bib]
 csl: "citationfiles/apa-single-spaced.csl"
 title:      How Do Parents Foster Young Children’s Math Skills?
-subtitle:   A review papaer by Leanne Elliott and Heather J. Bachman
+subtitle:   A review paper by Leanne Elliott and Heather J. Bachman
 date:       2020-11-30
 author:     Jiawen Wu
 header-img: img/post-bg-childmath.jpg
